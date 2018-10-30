@@ -1,0 +1,1 @@
+A database is a collection of information that is organized so that it can be easily accessed, managed and updated.
